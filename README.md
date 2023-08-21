@@ -1,16 +1,14 @@
-### Hi there 👋
+## Olá! I'm Leydson Barros 🫡
+[![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/leydson-barros-61816233/)
 
-<!--
-**leydsonbarros/leydsonbarros** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![Leydson Barros GitHub stats](https://github-readme-stats.vercel.app/api?username=leydsonbarros&show_icons=true&theme=dracula&count_private=true)
 
-Here are some ideas to get you started:
+## Tecnologias que eu uso no meu dia
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div style="display: inline_block">
+   <img align="center" alt="Mulesoft" src="https://img.shields.io/badge/Mulesoft-3776AB?style=for-the-badge&logo=Mulesoft&logoColor=white" />
+  <img align="center" alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+</div><br/>
+
+Engenheiro da computação em formação pelo Universidade Federal de Pernambuco. Com experiência profissional em Mulesoft e experiência acadêmica em C, Python, Arduino, IONIC. 
+Minhas principais habilidades estão relacionado a criação de API mulesoft, analise de dados com python e prototipação de projetos com arduino.
