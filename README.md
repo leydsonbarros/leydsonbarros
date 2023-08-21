@@ -3,7 +3,7 @@
 
 ![Leydson Barros GitHub stats](https://github-readme-stats.vercel.app/api?username=leydsonbarros&show_icons=true&theme=dracula&count_private=true)
 
-## Tecnologias que eu uso no meu dia
+## Technologies I use in my day
 
 <div style="display: inline_block">
    <img align="center" alt="Mulesoft" src="https://img.shields.io/badge/Mulesoft-3776AB?style=for-the-badge&logo=Mulesoft&logoColor=white" />
